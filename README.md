@@ -20,4 +20,4 @@ Third, accroding to the given circut, I have to develop a elevator control syste
 
 final work shows in the gif
 
-In general, this dual elevator controller is just like a normal double elevator. In any case, the elevator is capable of reasonable behavior. I put the code for the dual elevator control system in the file, along with a specification and inner logic explain.
+In general, this dual elevator controller is just like a normal double elevator. In any case, the elevator is capable of reasonable behavior. I put the code for the dual elevator control system in the file, along with a specification .
