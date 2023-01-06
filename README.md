@@ -1,4 +1,4 @@
-# dula-elevator-control
+# dual-elevator-control
 dual elevator control system in VerilogHDL.
 
 It's a course work for my undergraduate.
