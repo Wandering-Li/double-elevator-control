@@ -18,6 +18,11 @@ Second, professor gave me a standard circut board, and I have to solder the comp
 Third, accroding to the given circut, I have to develop a elevator control system uesing VerilogHDL
 (dual-elevator control is a bonus assignment since it is pretty hard to use only one chip but not two, on the given circut. But I think it still achievable and managed to work it out to the best I can.)
 
-final work shows in the gif
+final work shows in the video
+
+
+https://user-images.githubusercontent.com/86272490/216746228-bd1a31bf-e80b-4b23-96ed-77d6b65f8415.mp4
+
+
 
 In general, this dual elevator controller is just like a normal double elevator. In any case, the elevator is capable of reasonable behavior. I put the code for the dual elevator control system in the file, along with a specification .
